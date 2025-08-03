@@ -21,7 +21,7 @@ A Python CLI tool for exporting transaction data from Gnosis Pay. This tool allo
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/gnosispay-statement-exporter.git
+   git clone https://github.com/StefanosChaliasos/gnosispay-statement-exporter.git
    cd gnosispay-statement-exporter
    ```
 
